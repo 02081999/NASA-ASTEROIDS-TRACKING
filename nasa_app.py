@@ -1,6 +1,3 @@
-#Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
-#.\env\Scripts\Activate.ps1
-
 import streamlit as st
 import pandas as pd
 import pymysql
