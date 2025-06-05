@@ -7,6 +7,8 @@ This project helps track potentially hazardous asteroids, visualize close approa
 
 
 
+
+
 🚀 Features:
 
 🔭 Live asteroid tracking using NASA's public API.
@@ -18,6 +20,8 @@ This project helps track potentially hazardous asteroids, visualize close approa
 📅 Date-wise summary of asteroid approaches.
 
 📉 Brightness and size analytics with user-controlled filters.
+
+
 
 
 
@@ -35,6 +39,8 @@ MySQL – Data management
 
 
 
+
+
 🌐 API Used
 
 NASA NEO Web Service API
@@ -45,12 +51,19 @@ Requires a free NASA API key
 
 📦 Instructions
 
-Install and import packages
-Add your NASA API key
-Get required data using API
-Establish the connection between Jupyter notebook and SQL
-Insert the data into tables
-Collect the information according to given SQL queries through Streamlit
+Install and import packages.
+
+Add your NASA API key.
+
+Get required data using API.
+
+Establish the connection between Jupyter notebook and SQL.
+
+Insert the data into tables.
+
+Collect the information according to given SQL queries through Streamlit.
+
+
 
 
 
@@ -69,7 +82,10 @@ Screenshots
 
 
 ## 🏷️ Tags
-`#NASA` `#API` `#AsteroidTracking` `#Datadashboard` `#NearEarthObjects` `#Tracking&Insights` `#VS` `#SampleStreamlit` `#DataFiltering` `#SQLQuery`
+`#NASA` `#API` `#AsteroidTracking` `#Datadashboard` `#NearEarthObjects` `#Tracking&Insights` `#NASA(NEO)` `#SampleStreamlit` `#DataFiltering` `#SQLQuery`
+`#DB` `#DataBase` `#DataInteraction` `#API_Integration` `#SpacrResearch` `#Asteroids` `#AsteroidsDataAnalysis` `#DataExtracting` `#DataFiltering` `#AataCleaning`
+`#JupyterNotebook` `#Python` `#pymysql` `#Datatypes` `#StreamlitEnvironment` `#SQLJoins` `#QueryOptimization` `#Scientific Insights` 
+`#Astroinformatics` `#Pagination` `#JSON Parsing` 
 
 
 
