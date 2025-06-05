@@ -83,9 +83,9 @@ Screenshots
 
 ## 🏷️ Tags
 `#NASA` `#API` `#AsteroidTracking` `#Datadashboard` `#NearEarthObjects` `#Tracking&Insights` `#NASA(NEO)` `#SampleStreamlit` `#DataFiltering` `#SQLQuery`
-`#DB` `#DataBase` `#DataInteraction` `#API_Integration` `#SpacrResearch` `#Asteroids` `#AsteroidsDataAnalysis` `#DataExtracting` `#DataFiltering` `#AataCleaning`
+`#DB` `#DataBase` `#DataInteraction` `#API_Integration` `#SpacrResearch` `#Asteroids` `#AsteroidsDataAnalysis` `#DataExtracting` `#DataFiltering` `#DataCleaning`
 `#JupyterNotebook` `#Python` `#pymysql` `#Datatypes` `#StreamlitEnvironment` `#SQLJoins` `#QueryOptimization` `#Scientific Insights` 
-`#Astroinformatics` `#Pagination` `#JSON Parsing` 
+`#Astroinformatics` `#Pagination` `#JSON Parsing` `#TableCreation` `#DataInsertion` 
 
 
 
