@@ -69,13 +69,13 @@ Collect the information according to given SQL queries through Streamlit.
 
 Screenshots
 
-### 🛰️ Dashboard
+### 🛰️ Dashboard Screenshots
 ![Dashboard](https://github.com/user-attachments/assets/cb3dbfcf-38c9-4d88-9726-3e0ebd8fcbe4)
 
-### 🏠 Homepage
+### 🏠 Homepage Screenshots
 ![HomePage](https://github.com/user-attachments/assets/efb55018-e9ae-4794-94f4-fd894f547adc)
 
-### 📋 Query Results
+### 📋 Query Results Screenshots
 ![Queries](https://github.com/user-attachments/assets/2c33b002-32af-40c1-9d55-445c28fbace9)
 
 
