@@ -9,11 +9,11 @@ This project helps track potentially hazardous asteroids, visualize close approa
 
 🚀 Features:
 
-🔭 Live asteroid tracking using NASA's public API
-📊 Interactive dashboards to filter by date, size, velocity, and distance
-⚠️ Hazardous vs non-hazardous object analysis
-📅 Date-wise summary of asteroid approaches
-📉 Brightness and size analytics with user-controlled filters
+🔭 Live asteroid tracking using NASA's public API.
+📊 Interactive dashboards to filter by date, size, velocity, and distance.
+⚠️ Hazardous vs non-hazardous object analysis.
+📅 Date-wise summary of asteroid approaches.
+📉 Brightness and size analytics with user-controlled filters.
 
 
 
