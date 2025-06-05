@@ -24,9 +24,13 @@ This project helps track potentially hazardous asteroids, visualize close approa
 🔧 Technologies Used
 
 Jupyter notebook
+
 Streamlit – For building interactive UI
+
 Pandas – Data manipulation and filtering
+
 Requests – API data fetching
+
 MySQL – Data management
 
 
