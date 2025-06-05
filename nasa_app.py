@@ -21,9 +21,9 @@ with st.sidebar:
 
     selected = option_menu("Main Menu", ['Home','Filter criteria', 'Queries'], 
         icons=['house','paperclip', 'gear'], menu_icon="cast", default_index=1)
-    
+#home page info   
 if selected == "Home":    
-
+    #background image setting
     st.markdown("""
     <style>
     .stApp {
@@ -35,11 +35,11 @@ if selected == "Home":
         }    
     </style>
     """,unsafe_allow_html=True)
-    
+    #home page title
     st.markdown("""
             <h1 style='background-color:white;text-align:center;'>NASA NEAR EARTH OBJECT(NEO) TRACKING AND INSIGHTS USING PUBLIC API</h1>"
     """,unsafe_allow_html=True)
-
+    #divsion info
     st.markdown("""
      <div style="
         background-color: rgba(0, 0, 0, 0.5);
@@ -52,7 +52,7 @@ if selected == "Home":
         color: white;
         text-align:left;
         box-shadow: 0px 4px 12px rgba(0, 255, 170, 0.5);
-    ">
+    ">        
         <h5> 
         NASA’s Near-Earth Object (NEO) tracking system plays a critical role in monitoring asteroids and comets that come close to Earth's orbit.
         Through its efforts, NASA aims to assess the potential risks posed by these objects and provide early warnings in case any pose a threat to our planet.
@@ -85,14 +85,14 @@ if selected == "Home":
 
 #queries menu
 elif selected == 'Queries':  
-
+   
     st.markdown(
     """
     <h1 style='text-align: center;'>NEAR-EARTH OBJECT DATA EXPLORER⌕</h1>
     """,
     unsafe_allow_html=True)
 
-
+    #queries list
     options = st.selectbox("QUERIES LIST",["1. Count how many times each asteroid has approached Earth",
                                       "2. Average velocity of each asteroid over multiple approaches""",
                                       "3. List top 10 fastest asteroids",
@@ -589,8 +589,7 @@ elif selected == "Filter criteria":
     st.markdown("""
     <h3>FILTER RANGE:</h3>
     """,
-    unsafe_allow_html=True)
-    
+    unsafe_allow_html=True)    
 
     #set columns with space
     col1, space1,col2, space2, col3 = st.columns([0.4, 0.1, 0.4, 0.1,0.4])
