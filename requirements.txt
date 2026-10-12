@@ -1,0 +1,6 @@
+streamlit
+pandas
+requests
+PyMySQL
+streamlit-option-menu
+sqlalchemy
